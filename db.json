@@ -1,0 +1,182 @@
+{
+  "users": [
+    {
+      "id": "Admin",
+      "firstName": "Pere",
+      "lastName": "Junior",
+      "email": "pere@gmail.com",
+      "phone": "2348118333284",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "btcAddress": "1HjFJ2sEZTzvYmXHA4ecqY6W4XhnKd8s7B",
+      "ethAddress": "0xfe7459d4af16effa3813f062f4edebca245b9250",
+      "usdtAddress": "THWt2cAjh3kjRAL2Rzv6n1XqAJ8zFGH9jj",
+      "btcPrice": 0.000023,
+      "ethPrice": 0.00044,
+      "usdtPrice": 1
+    },
+    {
+      "id": "Wille",
+      "firstName": "Azebiri",
+      "lastName": "Happy",
+      "email": "pere@gmail.com",
+      "phone": "08118333284",
+      "sex": "Female",
+      "country": "Finland",
+      "date": "1/4/2024",
+      "password": "1234",
+      "address": "34 Drive close",
+      "btcAddress": "1HjFJ2sEZTzvYmXHA4ecqY6W4XhnKd8s7",
+      "ethAddress": "0xfe7459d4af16effa3813f062f4edebca245b925",
+      "usdtAddress": "THWt2cAjh3kjRAL2Rzv6n1XqAJ8zFGH9jj",
+      "walletBalance": 50.00,
+      "referralBalance": 0.00,
+      "transactions": [
+        {
+          "id": 1,
+          "product": "Beginner",
+          "status": "Pending",
+          "transactionType": "Deposit",
+          "amount": "$788",
+          "date": "12/03/203",
+          "time": "1.20 PM"
+        },
+        {
+          "id": 2,
+          "status": "Pending",
+          "product": "Master",
+          "amount": "$500",
+          "transactionType": "Deposit",
+          "date": "12/26/2023",
+          "time": "6:36:33 PM"
+        },
+        {
+          "id": 3,
+          "status": "Pending",
+          "product": "Payout",
+          "amount": "$500",
+          "transactionType": "Withdrawal",
+          "date": "12/26/2023",
+          "time": "6:37:19 PM"
+        },
+        {
+          "id": 4,
+          "status": "Pending",
+          "product": "Payout",
+          "amount": "$500",
+          "transactionType": "Withdrawal",
+          "date": "12/26/2023",
+          "time": "6:37:57 PM"
+        },
+        {
+          "id": 5,
+          "status": "Pending",
+          "product": "Professional",
+          "amount": "$500",
+          "transactionType": "Deposit",
+          "date": "1/4/2024",
+          "time": "12:58:11 PM"
+        }
+      ],
+      "tickets": [
+        {
+          "id": 1,
+          "name": "Pere",
+          "email": "pere@gmail.com",
+          "message": "$788",
+          "date": "12/03/203",
+          "time": "1.20 PM"
+        }
+      ],
+      "notifications": [
+        {
+          "id": 1,
+          "title": "New User",
+          "message": "Thanks for signing up... You'll definitely enjoy our services",
+          "date": "12/28/2023",
+          "author": "Brad - CEO",
+			"color": "#4dc900"
+        },
+        {
+          "id": 2,
+          "title": "New User",
+          "message": "Thanks for signing up... You'll definitely enjoy our services",
+          "date": "12/28/2023",
+          "author": "Brad - CEO",
+			"color": "#4dc900"
+        },
+		{
+			"id": 3,
+			"title": "Deposit - $50",
+			"message": "A welcome bonus of $50 has been deposited in your wallet",
+			"date": "12/28/2023",
+			"author": "Kelly - PRO",
+			"color": "blue"
+		}
+      ]
+    },
+    {
+      "id": "pere",
+      "firstName": "one",
+      "lastName": "rtwe",
+      "email": "wsa@sdda.asdsd",
+      "phone": "123123",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "btcAddress": "",
+      "ethAddress": "",
+      "usdtAddress": "",
+      "transactions": [],
+      "tickets": [],
+      "notifications": [
+        {
+          "id": 1,
+          "title": "New User",
+          "message": "Thanks for signing up... You'll definitely enjoy our services",
+          "date": "12/28/2023",
+          "author": "Brad - CEO"
+        },
+        {
+          "id": 2,
+          "title": "New User",
+          "message": "Thanks for signing up... You'll definitely enjoy our services",
+          "date": "12/28/2023",
+          "author": "Brad - CEO"
+        }
+      ]
+    },
+    {
+      "id": "Bibiwei",
+      "firstName": "Pere",
+      "lastName": "Koker",
+      "email": "pere@gmail.com",
+      "phone": "ddd",
+      "password": "1234",
+      "btcAddress": "",
+      "ethAddress": "",
+      "usdtAddress": "",
+      "transactions": [
+        {
+          "id": 1,
+          "status": "Pending",
+          "product": "Beginner",
+          "amount": "$500",
+          "transactionType": "Deposit",
+          "date": "12/29/2023",
+          "time": "11:13:11 AM"
+        }
+      ],
+      "tickets": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "message": "",
+          "date": "12/29/2023",
+          "time": "11:12:08 AM"
+        }
+      ],
+      "notifications": []
+    }
+  ]
+}
